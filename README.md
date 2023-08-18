@@ -10,8 +10,7 @@ VERSION : 0.0.1 Alpha
 
 # Files Description
 
-python-with-bahasaIndo 
-   |
-   |--- main.py : tester file
-   |
-   |--- pythonindo : main module
+python-with-bahasaIndo
+==========================
+main.py : tester file
+pythonindo : main module
