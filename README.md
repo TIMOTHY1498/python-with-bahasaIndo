@@ -12,4 +12,6 @@ VERSION : 0.0.1 Alpha
 
 python-with-bahasaIndo
 ==========================
-main.py : tester file  ||||||  pythonindo : main module
+main.py : tester file  
+
+pythonindo : main module
