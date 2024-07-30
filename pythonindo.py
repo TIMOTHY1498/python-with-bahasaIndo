@@ -9,3 +9,7 @@ def cetak(name):
 def tidur(timesleep):
     import time
     time.sleep(timesleep)
+
+def pilihangkarandom(angkaawal, angkaahkir):
+    import random
+    random.randint(angkaawal, angkaahkir)
